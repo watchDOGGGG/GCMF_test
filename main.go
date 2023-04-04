@@ -11,5 +11,5 @@ func main() {
 	r.GET("/api/test", service.TestApp())
 	r.POST("/api/verify_account", service.Verifyuseraccount())
 
-	r.Run(":1000")
+	r.Run(":8787")
 }
