@@ -1,2 +1,1 @@
-# GCMF_test
- 
+# golangMs
